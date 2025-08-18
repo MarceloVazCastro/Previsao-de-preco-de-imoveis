@@ -1,0 +1,101 @@
+ID,Area (m2),Quartos,Banheiros,Vagas de Garagem,Bairro,Andar,Preco (R$),Tipo de Imovel,Ano de Construcao,Observacoes
+1,85,3,2,1,Savassi,5,750000,Apartamento,1995,Apartamento com otima localizacao.
+2,120,4,3,2,Lourdes,10,1200000,Apartamento,2010,Vista panoramica.
+3,250,5,4,3,Pampulha,NaN,2500000,Casa,2005,NaN
+4,60,1,1,1,Centro,2,400000,Apartamento,2018,Proximo ao metro.
+5,180,4,3,2,Anchieta,3,1500000,Apartamento,2008,NaN
+6,150,NaN,3,2,Santo Agostinho,4,1350000,Apartamento,2002,Recem reformado.
+7,90,2,2,1,Floresta,NaN,800000,Apartamento,1998,NaN
+8,300,5,5,4,Buritis,NaN,2800000,Casa,2015,NaN
+9,75,2,1,0,Savassi,8,650000,Apartamento,1999,Sem vaga de garagem.
+10,220,4,4,3,Lourdes,7,1900000,Apartamento,2012,NaN
+11,400,6,6,5,Pampulha,NaN,4500000,Casa,2001,Casa de alto padrao.
+12,110,3,2,1,Centro,1,9500000,Apartamento,2019,Preco anormalmente alto. Outlier?
+13,130,3,2,2,Anchieta,6,1100000,Apartamento,2006,NaN
+14,95,2,2,1,Santo Agostinho,2,850000,Apartamento,2003,NaN
+15,55,1,1,0,Floresta,3,450000,Apartamento,2020,Studio moderno.
+16,170,4,3,2,Buritis,5,1600000,Apartamento,2013,NaN
+17,350,5,4,3,Savassi,NaN,3800000,Casa,1990,NaN
+18,80,2,1,1,Lourdes,4,720000,Apartamento,2007,NaN
+19,200,4,3,2,Pampulha,NaN,2100000,Apartamento,2011,NaN
+20,105,3,2,1,Centro,9,890000,Apartamento,2017,NaN
+21,92,3,2,1,Buritis,3,810000,Apartamento,2016,NaN
+22,280,4,4,3,Mangabeiras,NaN,3500000,Casa,2018,NaN
+23,78,2,2,1,Lourdes,12,790000,Apartamento,2009,NaN
+24,145,3,2,2,Anchieta,7,1250000,Apartamento,2007,NaN
+25,65,2,1,1,Centro,6,550000,Apartamento,2015,NaN
+26,160,3,3,2,Savassi,5,1450000,Apartamento,2001,Recem-reformado.
+27,210,4,3,2,Pampulha,NaN,2200000,Casa,2009,NaN
+28,100,2,2,1,Buritis,1,850000,Apartamento,2019,NaN
+29,185,4,4,3,Mangabeiras,8,2100000,Apartamento,2017,NaN
+30,88,2,2,1,Centro,4,780000,Apartamento,2016,NaN
+31,320,5,5,4,Lourdes,NaN,4100000,Casa,2004,NaN
+32,175,4,3,2,Anchieta,9,1800000,Apartamento,2014,NaN
+33,98,3,2,1,Savassi,3,920000,Apartamento,2000,NaN
+34,260,5,4,3,Pampulha,NaN,2750000,Casa,2008,NaN
+35,70,2,1,1,Buritis,7,620000,Apartamento,2018,NaN
+36,190,4,3,2,Santo Agostinho,5,1950000,Apartamento,2006,Recem-reformado.
+37,450,7,7,6,Mangabeiras,NaN,5500000,Casa,2002,NaN
+38,115,3,2,1,Lourdes,2,1050000,Apartamento,2011,NaN
+39,155,3,3,2,Anchieta,8,1350000,Apartamento,2010,NaN
+40,82,2,1,1,Centro,5,750000,Apartamento,2017,NaN
+41,290,5,5,4,Pampulha,NaN,3100000,Casa,2016,NaN
+42,135,3,2,2,Savassi,6,1250000,Apartamento,2004,NaN
+43,240,4,4,3,Mangabeiras,1,2500000,Apartamento,2015,NaN
+44,102,3,2,1,Buritis,2,880000,Apartamento,2020,NaN
+45,170,4,3,2,Lourdes,4,1750000,Apartamento,2009,NaN
+46,420,6,6,5,Santo Agostinho,NaN,4900000,Casa,2000,NaN
+47,95,2,2,1,Anchieta,3,820000,Apartamento,2012,NaN
+48,225,4,4,3,Pampulha,NaN,2450000,Casa,2007,NaN
+49,125,3,2,2,Centro,9,1050000,Apartamento,2018,NaN
+50,380,5,5,4,Mangabeiras,NaN,4200000,Casa,2003,NaN
+51,88,2,2,1,Savassi,2,800000,Apartamento,2005,NaN
+52,145,3,3,2,Lourdes,10,1300000,Apartamento,2013,NaN
+53,68,2,1,1,Buritis,5,650000,Apartamento,2017,NaN
+54,270,5,4,3,Santo Agostinho,NaN,2850000,Casa,2014,NaN
+55,195,4,3,2,Pampulha,8,2050000,Apartamento,2016,NaN
+56,410,6,6,5,Mangabeiras,NaN,5100000,Casa,2001,NaN
+57,118,3,2,1,Anchieta,4,1050000,Apartamento,2019,NaN
+58,92,2,2,1,Savassi,6,850000,Apartamento,2008,NaN
+59,340,5,5,4,Lourdes,NaN,3900000,Casa,2006,NaN
+60,165,4,3,2,Centro,7,1550000,Apartamento,2010,NaN
+61,255,4,4,3,Pampulha,NaN,2700000,Casa,2015,NaN
+62,105,3,2,1,Buritis,3,910000,Apartamento,2018,NaN
+63,180,4,3,2,Santo Agostinho,5,1850000,Apartamento,2007,NaN
+64,430,6,6,5,Mangabeiras,NaN,5300000,Casa,2005,NaN
+65,85,2,2,1,Savassi,9,800000,Apartamento,2011,NaN
+66,310,5,5,4,Lourdes,NaN,3700000,Casa,2009,NaN
+67,140,3,2,2,Anchieta,6,1200000,Apartamento,2013,NaN
+68,75,2,1,1,Centro,4,680000,Apartamento,2016,NaN
+69,220,4,4,3,Pampulha,10,2300000,Apartamento,2012,NaN
+70,360,5,5,4,Buritis,NaN,4000000,Casa,2010,NaN
+71,110,3,2,1,Santo Agostinho,2,980000,Apartamento,2020,NaN
+72,95,2,2,1,Mangabeiras,3,900000,Apartamento,2019,NaN
+73,285,5,4,3,Savassi,NaN,3200000,Casa,2013,NaN
+74,150,3,3,2,Lourdes,7,1400000,Apartamento,2015,NaN
+75,60,1,1,1,Centro,5,500000,Apartamento,2014,NaN
+76,200,4,3,2,Anchieta,9,2150000,Apartamento,2011,NaN
+77,400,6,6,5,Pampulha,NaN,5000000,Casa,2006,NaN
+78,80,2,1,1,Buritis,4,750000,Apartamento,2017,NaN
+79,175,4,3,2,Santo Agostinho,6,1700000,Apartamento,2008,NaN
+80,265,5,5,4,Mangabeiras,NaN,2950000,Casa,2012,NaN
+81,100,2,2,1,Savassi,2,890000,Apartamento,2018,NaN
+82,135,3,2,2,Lourdes,8,1250000,Apartamento,2016,NaN
+83,90,2,1,1,Anchieta,3,810000,Apartamento,2020,NaN
+84,230,4,4,3,Pampulha,NaN,2400000,Casa,2009,NaN
+85,75,2,1,1,Buritis,7,680000,Apartamento,2019,NaN
+86,160,3,3,2,Santo Agostinho,5,1550000,Apartamento,2015,NaN
+87,330,5,5,4,Mangabeiras,NaN,3800000,Casa,2007,NaN
+88,105,3,2,1,Savassi,4,950000,Apartamento,2014,NaN
+89,190,4,3,2,Lourdes,9,1850000,Apartamento,2017,NaN
+90,295,5,4,3,Pampulha,NaN,3250000,Casa,2011,NaN
+91,65,2,1,1,Centro,6,580000,Apartamento,2018,NaN
+92,150,3,2,2,Anchieta,5,1350000,Apartamento,2016,NaN
+93,450,6,6,5,Santo Agostinho,NaN,5500000,Casa,2004,NaN
+94,115,3,2,1,Buritis,8,1050000,Apartamento,2013,NaN
+95,270,5,5,4,Mangabeiras,NaN,3100000,Casa,2010,NaN
+96,80,2,1,1,Savassi,3,720000,Apartamento,2019,NaN
+97,145,3,3,2,Lourdes,7,1450000,Apartamento,2018,NaN
+98,160,3,2,2,Anchieta,4,1500000,Apartamento,2017,NaN
+99,350,5,5,4,Pampulha,NaN,4000000,Casa,2013,NaN
+100,105,3,2,1,Centro,9,950000,Apartamento,2019,NaN
