@@ -6,18 +6,6 @@ Este projeto é uma demonstração do processo de Ciência de Dados, focado na p
 
 O projeto está organizado para seguir as melhores práticas de Ciência de Dados, separando os dados brutos, o código-fonte e os notebooks de análise.
 
-/
-├── data/
-│   ├── raw/
-│   │   └── imoveis_bh.csv         # Dados brutos e originais
-│   └── processed/
-│       └── imoveis_bh_cleaned.csv # Dados limpos após a primeira etapa
-├── notebooks/
-│   └── 01_data_exploration_and_cleaning.ipynb # Notebook com o processo de EDA e limpeza
-├── .gitignore
-├── README.md
-├── requirements.txt
-
 ## 2. Descrição do Projeto (Fase 1)
 
 O objetivo desta fase foi preparar o conjunto de dados para a modelagem futura. Foram executadas as seguintes tarefas:
